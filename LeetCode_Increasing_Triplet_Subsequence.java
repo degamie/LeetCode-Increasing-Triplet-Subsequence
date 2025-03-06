@@ -1,5 +1,5 @@
 class Solution {
-//T(C(N)) and S(C(N) as It Requires Contigous Memory Space Allocation iteratively
+//T(C(N)) and S(C(N)==O(N) as It Requires Contigous Memory Space Allocation iteratively
     public boolean increasingTriplet(int[] nums) {
         int first=Integer.MAX_VALUE; //Variables Declare
         int Second=Integer.MAX_VALUE;
